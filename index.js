@@ -256,7 +256,7 @@ var b=-20;
 // javascript program to print table for given number 
 // (8,9,12,15) using for loop?
 
-
+console.log("hello nadim")
 
 
 
